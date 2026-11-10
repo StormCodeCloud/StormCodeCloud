@@ -45,7 +45,7 @@ Based in Madeira, Portugal.
 
 ### Current work
 
-Currently building SaaS and web products at Anturio.com, plus independent projects on the side.
+Currently building SaaS and web products at Anturio.com, plus independent projects on the side: https://joanamartinshealth.com/ and https://construct.anturio.app
 
 ### Contact
 
