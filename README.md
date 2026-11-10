@@ -1,4 +1,16 @@
-﻿### About
+<p align="center">
+  <img src="./stormcodecloud.svg" alt="duarte@stormcodecloud: Full-stack Developer, SaaS, Web, UI/UX, Madeira, Portugal" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=StormCodeCloud&theme=dark&background=0D1117&border=30363D&ring=39D353&fire=39D353&currStreakNum=39D353&currStreakLabel=39D353&sideLabels=58A6FF&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
+</p>
+
+### About
 
 Full-stack developer building SaaS products, enterprise web applications, and polished user experiences. I move comfortably across the stack — backend architecture, API design, and frontend/UI craft — with a strong focus on usability and visual quality.
 
@@ -40,6 +52,3 @@ Currently building SaaS and web products at Anturio.com, plus independent projec
 - Website: [stormservices.pt](https://www.stormservices.pt/)
 - Location: Madeira, Portugal
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=StormCodeCloud&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=555&bg_color=ffffff00" width="420" alt="GitHub stats" />
